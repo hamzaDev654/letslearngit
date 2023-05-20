@@ -4,4 +4,4 @@ const sum=(num1, num2)=>{
 
 const result = sum(12,13);
 
-console.write(result)
+console.write('Sum=' + result)
